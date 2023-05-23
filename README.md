@@ -20,7 +20,7 @@ Here are some of the exciting projects you'll find in this repository:
 
 ## Get in Touch
 
-I'm always excited to collaborate and explore new opportunities. Feel free to reach out to me via email at [your.email@example.com](mailto:khalilhassam4@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/khalil-gibran-hassam-821070248/) to stay updated on my latest projects and professional journey.
+I'm always excited to collaborate and explore new opportunities. Feel free to reach out to me via email at [khalilhassam4@gmail.com](mailto:khalilhassam4@gmail.com). You can also connect with me on [LinkedIn](https://www.linkedin.com/in/khalil-gibran-hassam-821070248/) to stay updated on my latest projects and professional journey.
 
 ## Let's Collaborate!
 
