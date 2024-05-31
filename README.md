@@ -1,4 +1,4 @@
-# Khalil Hassam
+# Khalil Gibran Hassam
 
 Welcome to my awesome GitHub repository! Here, you'll find a collection of my projects and experiments showcasing my passion for machine learning, web development, and software engineering challenges.
 
